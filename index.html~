@@ -7,8 +7,15 @@
 
 <body> 
 
+<ul>
+<li><a class="active" href="#home">Home </a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#contact ">Contact </a></li>
+<li><a href="#about">About</a></li>
+</ul>
+
 <div class="a">
-<p><img src="the_odin_project/google-homepage/logos.png"></p>
+<p><img src="the_odin_project/google-homepage/images/logos.png"></p>
 </div>
 
 <div class="box">
@@ -32,6 +39,10 @@
 
 
 
+<dr>
 
+
+
+</footer>
 
 </body>
